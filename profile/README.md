@@ -77,59 +77,65 @@ Questions: [hello@lexifina.com](mailto:hello@lexifina.com)
 
 ## Git for Global Law in numbers
 
-Commits are laws taking effect. "Per hour" counts commits added to GitHub over the last 1.7 hours. Updated 28 Oct 2026, 20:52 UTC.
+Commits are laws taking effect. "Per hour" counts commits added to GitHub over the last 2.2 hours. Updated 28 Oct 2026, 21:22 UTC.
 
 | | Commits | Per hour |
 |---|---:|---:|
-| **All 49 countries** | **87,689** | **37,418** |
-| Czechia | 33,641 | 19,769 |
-| Armenia | 14,425 | 1 |
-| Georgia | 11,819 | 6,946 |
-| Switzerland | 11,509 | 6,750 |
+| **All 55 countries** | **106,320** | **37,373** |
+| Czechia | 33,641 | 15,276 |
+| Spain | 16,737 | 7,600 |
+| Armenia | 14,425 | 0 |
+| Georgia | 11,819 | 5,367 |
+| Switzerland | 11,509 | 5,216 |
 | Malta | 7,444 | 0 |
-| Germany | 3,305 | 1,899 |
-| Fiji | 1,295 | 761 |
-| Chile | 1,158 | 393 |
-| Brazil | 642 | 249 |
-| Colombia | 611 | 139 |
-| Italy | 243 | 143 |
-| Argentina | 197 | 26 |
-| Australia | 145 | 85 |
-| Luxembourg | 124 | 1 |
-| Peru | 124 | 49 |
-| Paraguay | 120 | 27 |
+| Germany | 3,305 | 1,468 |
+| Chile | 1,387 | 407 |
+| Fiji | 1,295 | 588 |
+| Turkey | 1,014 | 460 |
+| Brazil | 642 | 192 |
+| Colombia | 611 | 107 |
+| Austria | 301 | 137 |
+| Italy | 243 | 110 |
+| Argentina | 203 | 23 |
+| Peru | 152 | 50 |
+| Portugal | 149 | 68 |
+| Canada | 147 | 67 |
+| Australia | 145 | 66 |
+| Luxembourg | 126 | 2 |
+| Paraguay | 120 | 21 |
 | Denmark | 108 | 1 |
 | Liechtenstein | 103 | 1 |
-| Uruguay | 65 | 20 |
+| Ecuador | 78 | 30 |
+| Uruguay | 65 | 15 |
 | Estonia | 62 | 1 |
-| Ecuador | 61 | 29 |
 | Slovakia | 59 | 1 |
 | United States | 47 | 0 |
 | Monaco | 41 | 1 |
-| Portugal | 40 | 24 |
 | Slovenia | 34 | 1 |
-| Japan | 31 | 18 |
-| Greenland | 31 | 18 |
+| Japan | 31 | 14 |
+| Greenland | 31 | 14 |
+| Ireland | 27 | 12 |
 | Hong Kong | 26 | 1 |
-| Ireland | 23 | 14 |
-| Poland | 22 | 13 |
-| Kyrgyzstan | 17 | 10 |
+| Poland | 22 | 10 |
+| Kyrgyzstan | 17 | 8 |
 | United Kingdom | 16 | 0 |
+| Thailand | 16 | 7 |
 | Gibraltar | 15 | 1 |
+| Saudi Arabia | 13 | 6 |
 | Croatia | 11 | 1 |
 | Guyana | 10 | 0 |
-| China | 8 | 5 |
-| Finland | 8 | 1 |
-| Rwanda | 8 | 5 |
+| Finland | 9 | 1 |
+| Rwanda | 9 | 4 |
+| China | 8 | 4 |
+| Timor-Leste | 8 | 4 |
 | Venezuela | 7 | 0 |
-| South Africa | 6 | 4 |
-| Taiwan | 6 | 4 |
+| South Africa | 6 | 3 |
+| Taiwan | 6 | 3 |
 | Bolivia | 5 | 0 |
-| Madagascar | 5 | 3 |
+| Madagascar | 5 | 2 |
 | Suriname | 4 | 0 |
 | Azerbaijan | 2 | 1 |
 | Costa Rica | 2 | 1 |
 | Samoa | 2 | 1 |
-| Turkey | 2 | 1 |
 
 <!-- git-law-stats:end -->
