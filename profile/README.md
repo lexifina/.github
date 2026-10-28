@@ -77,47 +77,51 @@ Questions: [hello@lexifina.com](mailto:hello@lexifina.com)
 
 ## Git for Global Law in numbers
 
-Commits are laws taking effect. "Per hour" counts commits added to GitHub over the last 0.7 hours. Updated 28 Oct 2026, 19:52 UTC.
+Commits are laws taking effect. "Per hour" counts commits added to GitHub over the last 1.0 hours. Updated 28 Oct 2026, 20:11 UTC.
 
 | | Commits | Per hour |
 |---|---:|---:|
-| **All 37 countries** | **40,880** | **24,044** |
+| **All 41 countries** | **52,999** | **28,192** |
 | Armenia | 14,425 | 1 |
-| Switzerland | 11,509 | 16,376 |
+| Georgia | 11,818 | 11,495 |
+| Switzerland | 11,509 | 11,173 |
 | Malta | 7,444 | 0 |
-| Germany | 3,305 | 4,608 |
-| Fiji | 1,295 | 1,846 |
-| Chile | 699 | 298 |
-| Colombia | 480 | 150 |
-| Brazil | 347 | 182 |
-| Italy | 243 | 346 |
-| Argentina | 152 | 0 |
-| Luxembourg | 124 | 3 |
-| Denmark | 108 | 3 |
-| Liechtenstein | 103 | 3 |
-| Paraguay | 74 | 0 |
-| Estonia | 62 | 3 |
-| Slovakia | 59 | 3 |
+| Germany | 3,305 | 3,144 |
+| Fiji | 1,295 | 1,260 |
+| Chile | 699 | 203 |
+| Brazil | 573 | 344 |
+| Colombia | 480 | 102 |
+| Italy | 243 | 236 |
+| Argentina | 176 | 23 |
+| Luxembourg | 124 | 2 |
+| Denmark | 108 | 2 |
+| Liechtenstein | 103 | 2 |
+| Paraguay | 82 | 8 |
+| Uruguay | 65 | 33 |
+| Estonia | 62 | 2 |
+| Slovakia | 59 | 2 |
 | United States | 47 | 0 |
-| Monaco | 41 | 3 |
+| Monaco | 41 | 2 |
 | Peru | 41 | 0 |
-| Portugal | 40 | 57 |
-| Ecuador | 34 | 31 |
-| Slovenia | 34 | 3 |
-| Uruguay | 31 | 0 |
-| Greenland | 31 | 44 |
-| Hong Kong | 26 | 3 |
-| Ireland | 23 | 33 |
-| Kyrgyzstan | 17 | 24 |
+| Portugal | 40 | 39 |
+| Ecuador | 34 | 21 |
+| Slovenia | 34 | 2 |
+| Greenland | 31 | 30 |
+| Hong Kong | 26 | 2 |
+| Ireland | 23 | 22 |
+| Kyrgyzstan | 17 | 17 |
 | United Kingdom | 16 | 0 |
-| Gibraltar | 15 | 3 |
-| Croatia | 11 | 3 |
+| Gibraltar | 15 | 2 |
+| Croatia | 11 | 2 |
 | Guyana | 10 | 0 |
-| Finland | 8 | 3 |
-| Rwanda | 8 | 11 |
+| Finland | 8 | 2 |
+| Rwanda | 8 | 8 |
 | Venezuela | 7 | 0 |
 | Bolivia | 5 | 0 |
+| Madagascar | 5 | 5 |
 | Suriname | 4 | 0 |
-| Samoa | 2 | 3 |
+| Azerbaijan | 2 | 2 |
+| Samoa | 2 | 2 |
+| Turkey | 2 | 2 |
 
 <!-- git-law-stats:end -->
