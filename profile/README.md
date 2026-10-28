@@ -77,37 +77,38 @@ Questions: [hello@lexifina.com](mailto:hello@lexifina.com)
 
 ## Git for Global Law in numbers
 
-Commits are laws taking effect. "Per hour" counts commits added to GitHub over the last 3.0 hours. Updated 28 Oct 2026, 22:52 UTC.
+Commits are laws taking effect. "Per hour" counts commits added to GitHub over the last 3.0 hours. Updated 28 Oct 2026, 23:22 UTC.
 
 | | Commits | Per hour |
 |---|---:|---:|
-| **All 54 countries** | **118,577** | **25,904** |
-| Czechia | 33,641 | 11,216 |
-| Spain | 16,737 | 5,580 |
+| **All 55 countries** | **119,557** | **22,100** |
+| Czechia | 33,641 | 11,219 |
+| Spain | 16,737 | 5,582 |
 | Armenia | 14,423 | -1 |
-| Georgia | 11,819 | 3,940 |
+| Georgia | 11,819 | 0 |
 | Switzerland | 11,509 | 0 |
 | Azerbaijan | 10,867 | 3,623 |
 | Malta | 7,255 | -63 |
 | Germany | 3,305 | 0 |
 | Turkey | 2,362 | 787 |
-| Chile | 1,456 | 252 |
+| Chile | 1,456 | 158 |
 | Fiji | 1,295 | 0 |
+| Mongolia | 980 | 327 |
 | Colombia | 737 | 86 |
-| Brazil | 642 | 98 |
+| Brazil | 642 | 23 |
 | Austria | 301 | 100 |
 | Italy | 243 | 0 |
-| Argentina | 203 | 17 |
+| Argentina | 203 | 6 |
 | Peru | 152 | 37 |
 | Portugal | 149 | 36 |
 | Canada | 147 | 49 |
 | Australia | 146 | 49 |
 | Luxembourg | 126 | 1 |
-| Paraguay | 120 | 15 |
+| Paraguay | 120 | 13 |
 | Denmark | 109 | 0 |
 | Liechtenstein | 103 | 0 |
 | Ecuador | 78 | 15 |
-| Uruguay | 65 | 11 |
+| Uruguay | 65 | 0 |
 | Estonia | 62 | 0 |
 | Slovakia | 59 | 0 |
 | United States | 47 | 0 |
@@ -130,7 +131,7 @@ Commits are laws taking effect. "Per hour" counts commits added to GitHub over t
 | Finland | 9 | 0 |
 | Rwanda | 9 | 0 |
 | China | 8 | 3 |
-| Madagascar | 8 | 3 |
+| Madagascar | 8 | 1 |
 | Timor-Leste | 8 | 3 |
 | Venezuela | 7 | 0 |
 | Taiwan | 6 | 2 |
