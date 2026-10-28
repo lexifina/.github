@@ -77,60 +77,61 @@ Questions: [hello@lexifina.com](mailto:hello@lexifina.com)
 
 ## Git for Global Law in numbers
 
-Commits are laws taking effect. "Per hour" counts commits added to GitHub over the last 2.2 hours. Updated 28 Oct 2026, 21:22 UTC.
+Commits are laws taking effect. "Per hour" counts commits added to GitHub over the last 2.6 hours. Updated 28 Oct 2026, 21:43 UTC.
 
 | | Commits | Per hour |
 |---|---:|---:|
-| **All 55 countries** | **106,320** | **37,373** |
-| Czechia | 33,641 | 15,276 |
-| Spain | 16,737 | 7,600 |
-| Armenia | 14,425 | 0 |
-| Georgia | 11,819 | 5,367 |
-| Switzerland | 11,509 | 5,216 |
-| Malta | 7,444 | 0 |
-| Germany | 3,305 | 1,468 |
-| Chile | 1,387 | 407 |
-| Fiji | 1,295 | 588 |
-| Turkey | 1,014 | 460 |
-| Brazil | 642 | 192 |
-| Colombia | 611 | 107 |
-| Austria | 301 | 137 |
-| Italy | 243 | 110 |
-| Argentina | 203 | 23 |
-| Peru | 152 | 50 |
-| Portugal | 149 | 68 |
-| Canada | 147 | 67 |
-| Australia | 145 | 66 |
+| **All 56 countries** | **106,167** | **32,157** |
+| Czechia | 33,641 | 13,168 |
+| Spain | 16,737 | 6,551 |
+| Armenia | 14,423 | -0 |
+| Georgia | 11,819 | 4,626 |
+| Switzerland | 11,509 | 4,496 |
+| Malta | 7,255 | -74 |
+| Germany | 3,305 | 1,265 |
+| Chile | 1,384 | 350 |
+| Fiji | 1,295 | 507 |
+| Turkey | 1,014 | 397 |
+| Brazil | 642 | 166 |
+| Colombia | 611 | 92 |
+| Austria | 301 | 118 |
+| Italy | 243 | 95 |
+| Argentina | 203 | 20 |
+| Peru | 152 | 43 |
+| Portugal | 149 | 58 |
+| Canada | 147 | 58 |
+| Australia | 146 | 57 |
 | Luxembourg | 126 | 2 |
-| Paraguay | 120 | 21 |
-| Denmark | 108 | 1 |
+| Paraguay | 120 | 18 |
+| Denmark | 109 | 1 |
 | Liechtenstein | 103 | 1 |
-| Ecuador | 78 | 30 |
-| Uruguay | 65 | 15 |
+| Ecuador | 78 | 26 |
+| Uruguay | 65 | 13 |
 | Estonia | 62 | 1 |
 | Slovakia | 59 | 1 |
 | United States | 47 | 0 |
 | Monaco | 41 | 1 |
 | Slovenia | 34 | 1 |
-| Japan | 31 | 14 |
-| Greenland | 31 | 14 |
-| Ireland | 27 | 12 |
+| South Africa | 32 | 13 |
+| Greenland | 32 | 13 |
+| Japan | 31 | 12 |
+| Ireland | 27 | 11 |
 | Hong Kong | 26 | 1 |
-| Poland | 22 | 10 |
-| Kyrgyzstan | 17 | 8 |
+| Poland | 22 | 9 |
+| Kyrgyzstan | 17 | 7 |
 | United Kingdom | 16 | 0 |
-| Thailand | 16 | 7 |
+| Thailand | 16 | 6 |
 | Gibraltar | 15 | 1 |
-| Saudi Arabia | 13 | 6 |
+| Saudi Arabia | 13 | 5 |
+| Zambia | 12 | 5 |
 | Croatia | 11 | 1 |
 | Guyana | 10 | 0 |
 | Finland | 9 | 1 |
 | Rwanda | 9 | 4 |
-| China | 8 | 4 |
-| Timor-Leste | 8 | 4 |
+| China | 8 | 3 |
+| Timor-Leste | 8 | 3 |
 | Venezuela | 7 | 0 |
-| South Africa | 6 | 3 |
-| Taiwan | 6 | 3 |
+| Taiwan | 6 | 2 |
 | Bolivia | 5 | 0 |
 | Madagascar | 5 | 2 |
 | Suriname | 4 | 0 |
