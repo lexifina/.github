@@ -77,57 +77,57 @@ Questions: [hello@lexifina.com](mailto:hello@lexifina.com)
 
 ## Git for Global Law in numbers
 
-Commits are laws taking effect. "Per hour" counts commits added to GitHub over the last 2.6 hours. Updated 28 Oct 2026, 21:43 UTC.
+Commits are laws taking effect. "Per hour" counts commits added to GitHub over the last 3.0 hours. Updated 28 Oct 2026, 22:22 UTC.
 
 | | Commits | Per hour |
 |---|---:|---:|
-| **All 56 countries** | **106,167** | **32,157** |
-| Czechia | 33,641 | 13,168 |
-| Spain | 16,737 | 6,551 |
+| **All 58 countries** | **106,297** | **26,879** |
+| Czechia | 33,641 | 11,216 |
+| Spain | 16,737 | 5,580 |
 | Armenia | 14,423 | -0 |
-| Georgia | 11,819 | 4,626 |
-| Switzerland | 11,509 | 4,496 |
-| Malta | 7,255 | -74 |
-| Germany | 3,305 | 1,265 |
-| Chile | 1,384 | 350 |
-| Fiji | 1,295 | 507 |
-| Turkey | 1,014 | 397 |
-| Brazil | 642 | 166 |
-| Colombia | 611 | 92 |
-| Austria | 301 | 118 |
-| Italy | 243 | 95 |
-| Argentina | 203 | 20 |
-| Peru | 152 | 43 |
-| Portugal | 149 | 58 |
-| Canada | 147 | 58 |
-| Australia | 146 | 57 |
-| Luxembourg | 126 | 2 |
-| Paraguay | 120 | 18 |
+| Georgia | 11,819 | 3,940 |
+| Switzerland | 11,509 | 3,829 |
+| Malta | 7,255 | -63 |
+| Germany | 3,305 | 1,078 |
+| Chile | 1,384 | 233 |
+| Fiji | 1,295 | 0 |
+| Turkey | 1,014 | 338 |
+| Colombia | 737 | 121 |
+| Brazil | 642 | 98 |
+| Austria | 301 | 100 |
+| Italy | 243 | 81 |
+| Argentina | 203 | 17 |
+| Peru | 152 | 37 |
+| Portugal | 149 | 50 |
+| Canada | 147 | 49 |
+| Australia | 146 | 49 |
+| Luxembourg | 126 | 1 |
+| Paraguay | 120 | 15 |
 | Denmark | 109 | 1 |
-| Liechtenstein | 103 | 1 |
-| Ecuador | 78 | 26 |
-| Uruguay | 65 | 13 |
-| Estonia | 62 | 1 |
-| Slovakia | 59 | 1 |
+| Liechtenstein | 103 | 0 |
+| Ecuador | 78 | 22 |
+| Uruguay | 65 | 11 |
+| Estonia | 62 | 0 |
+| Slovakia | 59 | 0 |
 | United States | 47 | 0 |
-| Monaco | 41 | 1 |
-| Slovenia | 34 | 1 |
-| South Africa | 32 | 13 |
-| Greenland | 32 | 13 |
-| Japan | 31 | 12 |
-| Ireland | 27 | 11 |
-| Hong Kong | 26 | 1 |
-| Poland | 22 | 9 |
-| Kyrgyzstan | 17 | 7 |
+| Monaco | 41 | 0 |
+| Slovenia | 34 | 0 |
+| South Africa | 32 | 11 |
+| Greenland | 32 | 1 |
+| Japan | 31 | 10 |
+| Ireland | 27 | 9 |
+| Hong Kong | 26 | 0 |
+| Poland | 22 | 7 |
+| Kyrgyzstan | 17 | 6 |
 | United Kingdom | 16 | 0 |
-| Thailand | 16 | 6 |
-| Gibraltar | 15 | 1 |
-| Saudi Arabia | 13 | 5 |
-| Zambia | 12 | 5 |
-| Croatia | 11 | 1 |
+| Thailand | 16 | 5 |
+| Gibraltar | 15 | 0 |
+| Saudi Arabia | 13 | 4 |
+| Zambia | 12 | 4 |
+| Croatia | 11 | 0 |
 | Guyana | 10 | 0 |
 | Finland | 9 | 1 |
-| Rwanda | 9 | 4 |
+| Rwanda | 9 | 3 |
 | China | 8 | 3 |
 | Timor-Leste | 8 | 3 |
 | Venezuela | 7 | 0 |
@@ -136,7 +136,9 @@ Commits are laws taking effect. "Per hour" counts commits added to GitHub over t
 | Madagascar | 5 | 2 |
 | Suriname | 4 | 0 |
 | Azerbaijan | 2 | 1 |
+| Benin | 2 | 1 |
 | Costa Rica | 2 | 1 |
-| Samoa | 2 | 1 |
+| Samoa | 2 | 0 |
+| Togo | 2 | 1 |
 
 <!-- git-law-stats:end -->
