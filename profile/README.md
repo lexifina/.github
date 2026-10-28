@@ -77,40 +77,43 @@ Questions: [hello@lexifina.com](mailto:hello@lexifina.com)
 
 ## Git for Global Law in numbers
 
-Commits are laws taking effect. Updated 28 Oct 2026, 19:09 UTC; rates appear after the next update.
+Commits are laws taking effect. Updated 28 Oct 2026, 19:22 UTC; rates appear after the next update.
 
 | | Commits | Per hour |
 |---|---:|---:|
-| **All 30 countries** | **24,018** | **–** |
+| **All 33 countries** | **25,678** | **–** |
 | Armenia | 14,424 | – |
 | Malta | 7,444 | – |
-| Chile | 490 | – |
+| Fiji | 1,295 | – |
+| Chile | 685 | – |
 | Colombia | 375 | – |
-| Brazil | 219 | – |
+| Brazil | 347 | – |
 | Argentina | 152 | – |
-| Luxembourg | 122 | – |
-| Denmark | 106 | – |
-| Liechtenstein | 101 | – |
+| Luxembourg | 123 | – |
+| Denmark | 107 | – |
+| Liechtenstein | 102 | – |
 | Paraguay | 74 | – |
 | Germany | 73 | – |
-| Estonia | 60 | – |
-| Slovakia | 57 | – |
+| Estonia | 61 | – |
+| Slovakia | 58 | – |
 | United States | 47 | – |
 | Peru | 41 | – |
-| Monaco | 39 | – |
-| Slovenia | 32 | – |
+| Monaco | 40 | – |
+| Slovenia | 33 | – |
 | Uruguay | 31 | – |
-| Hong Kong | 24 | – |
+| Greenland | 29 | – |
+| Hong Kong | 25 | – |
 | Switzerland | 23 | – |
 | United Kingdom | 16 | – |
-| Gibraltar | 13 | – |
+| Gibraltar | 14 | – |
 | Ecuador | 12 | – |
+| Croatia | 10 | – |
 | Guyana | 10 | – |
-| Croatia | 9 | – |
+| Finland | 7 | – |
 | Venezuela | 7 | – |
-| Finland | 6 | – |
 | Bolivia | 5 | – |
 | Suriname | 4 | – |
+| Samoa | 2 | – |
 | Singapore | 2 | – |
 
 <!-- git-law-stats:end -->
