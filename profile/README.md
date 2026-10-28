@@ -77,43 +77,47 @@ Questions: [hello@lexifina.com](mailto:hello@lexifina.com)
 
 ## Git for Global Law in numbers
 
-Commits are laws taking effect. Updated 28 Oct 2026, 19:22 UTC; rates appear after the next update.
+Commits are laws taking effect. "Per hour" counts commits added to GitHub over the last 0.7 hours. Updated 28 Oct 2026, 19:52 UTC.
 
 | | Commits | Per hour |
 |---|---:|---:|
-| **All 33 countries** | **25,678** | **–** |
-| Armenia | 14,424 | – |
-| Malta | 7,444 | – |
-| Fiji | 1,295 | – |
-| Chile | 685 | – |
-| Colombia | 375 | – |
-| Brazil | 347 | – |
-| Argentina | 152 | – |
-| Luxembourg | 123 | – |
-| Denmark | 107 | – |
-| Liechtenstein | 102 | – |
-| Paraguay | 74 | – |
-| Germany | 73 | – |
-| Estonia | 61 | – |
-| Slovakia | 58 | – |
-| United States | 47 | – |
-| Peru | 41 | – |
-| Monaco | 40 | – |
-| Slovenia | 33 | – |
-| Uruguay | 31 | – |
-| Greenland | 29 | – |
-| Hong Kong | 25 | – |
-| Switzerland | 23 | – |
-| United Kingdom | 16 | – |
-| Gibraltar | 14 | – |
-| Ecuador | 12 | – |
-| Croatia | 10 | – |
-| Guyana | 10 | – |
-| Finland | 7 | – |
-| Venezuela | 7 | – |
-| Bolivia | 5 | – |
-| Suriname | 4 | – |
-| Samoa | 2 | – |
-| Singapore | 2 | – |
+| **All 37 countries** | **40,880** | **24,044** |
+| Armenia | 14,425 | 1 |
+| Switzerland | 11,509 | 16,376 |
+| Malta | 7,444 | 0 |
+| Germany | 3,305 | 4,608 |
+| Fiji | 1,295 | 1,846 |
+| Chile | 699 | 298 |
+| Colombia | 480 | 150 |
+| Brazil | 347 | 182 |
+| Italy | 243 | 346 |
+| Argentina | 152 | 0 |
+| Luxembourg | 124 | 3 |
+| Denmark | 108 | 3 |
+| Liechtenstein | 103 | 3 |
+| Paraguay | 74 | 0 |
+| Estonia | 62 | 3 |
+| Slovakia | 59 | 3 |
+| United States | 47 | 0 |
+| Monaco | 41 | 3 |
+| Peru | 41 | 0 |
+| Portugal | 40 | 57 |
+| Ecuador | 34 | 31 |
+| Slovenia | 34 | 3 |
+| Uruguay | 31 | 0 |
+| Greenland | 31 | 44 |
+| Hong Kong | 26 | 3 |
+| Ireland | 23 | 33 |
+| Kyrgyzstan | 17 | 24 |
+| United Kingdom | 16 | 0 |
+| Gibraltar | 15 | 3 |
+| Croatia | 11 | 3 |
+| Guyana | 10 | 0 |
+| Finland | 8 | 3 |
+| Rwanda | 8 | 11 |
+| Venezuela | 7 | 0 |
+| Bolivia | 5 | 0 |
+| Suriname | 4 | 0 |
+| Samoa | 2 | 3 |
 
 <!-- git-law-stats:end -->
