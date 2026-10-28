@@ -77,35 +77,36 @@ Questions: [hello@lexifina.com](mailto:hello@lexifina.com)
 
 ## Git for Global Law in numbers
 
-Commits are laws taking effect. "Per hour" counts commits added to GitHub over the last 3.0 hours. Updated 28 Oct 2026, 22:22 UTC.
+Commits are laws taking effect. "Per hour" counts commits added to GitHub over the last 3.0 hours. Updated 28 Oct 2026, 22:52 UTC.
 
 | | Commits | Per hour |
 |---|---:|---:|
-| **All 58 countries** | **106,297** | **26,879** |
+| **All 54 countries** | **118,577** | **25,904** |
 | Czechia | 33,641 | 11,216 |
 | Spain | 16,737 | 5,580 |
-| Armenia | 14,423 | -0 |
+| Armenia | 14,423 | -1 |
 | Georgia | 11,819 | 3,940 |
-| Switzerland | 11,509 | 3,829 |
+| Switzerland | 11,509 | 0 |
+| Azerbaijan | 10,867 | 3,623 |
 | Malta | 7,255 | -63 |
-| Germany | 3,305 | 1,078 |
-| Chile | 1,384 | 233 |
+| Germany | 3,305 | 0 |
+| Turkey | 2,362 | 787 |
+| Chile | 1,456 | 252 |
 | Fiji | 1,295 | 0 |
-| Turkey | 1,014 | 338 |
-| Colombia | 737 | 121 |
+| Colombia | 737 | 86 |
 | Brazil | 642 | 98 |
 | Austria | 301 | 100 |
-| Italy | 243 | 81 |
+| Italy | 243 | 0 |
 | Argentina | 203 | 17 |
 | Peru | 152 | 37 |
-| Portugal | 149 | 50 |
+| Portugal | 149 | 36 |
 | Canada | 147 | 49 |
 | Australia | 146 | 49 |
 | Luxembourg | 126 | 1 |
 | Paraguay | 120 | 15 |
-| Denmark | 109 | 1 |
+| Denmark | 109 | 0 |
 | Liechtenstein | 103 | 0 |
-| Ecuador | 78 | 22 |
+| Ecuador | 78 | 15 |
 | Uruguay | 65 | 11 |
 | Estonia | 62 | 0 |
 | Slovakia | 59 | 0 |
@@ -113,12 +114,12 @@ Commits are laws taking effect. "Per hour" counts commits added to GitHub over t
 | Monaco | 41 | 0 |
 | Slovenia | 34 | 0 |
 | South Africa | 32 | 11 |
-| Greenland | 32 | 1 |
+| Greenland | 32 | 0 |
 | Japan | 31 | 10 |
-| Ireland | 27 | 9 |
+| Ireland | 27 | 1 |
 | Hong Kong | 26 | 0 |
 | Poland | 22 | 7 |
-| Kyrgyzstan | 17 | 6 |
+| Kyrgyzstan | 17 | 0 |
 | United Kingdom | 16 | 0 |
 | Thailand | 16 | 5 |
 | Gibraltar | 15 | 0 |
@@ -126,19 +127,14 @@ Commits are laws taking effect. "Per hour" counts commits added to GitHub over t
 | Zambia | 12 | 4 |
 | Croatia | 11 | 0 |
 | Guyana | 10 | 0 |
-| Finland | 9 | 1 |
-| Rwanda | 9 | 3 |
+| Finland | 9 | 0 |
+| Rwanda | 9 | 0 |
 | China | 8 | 3 |
+| Madagascar | 8 | 3 |
 | Timor-Leste | 8 | 3 |
 | Venezuela | 7 | 0 |
 | Taiwan | 6 | 2 |
 | Bolivia | 5 | 0 |
-| Madagascar | 5 | 2 |
 | Suriname | 4 | 0 |
-| Azerbaijan | 2 | 1 |
-| Benin | 2 | 1 |
-| Costa Rica | 2 | 1 |
-| Samoa | 2 | 0 |
-| Togo | 2 | 1 |
 
 <!-- git-law-stats:end -->
