@@ -1,4 +1,4 @@
-<h1 align="center">Global git law</h1>
+<h1 align="center">Git for Global Law</h1>
 
 <p align="center">The world's legislation as git history: one commit per law taking effect.</p>
 
