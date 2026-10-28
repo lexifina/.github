@@ -72,3 +72,45 @@ Lexifina is where a law firm drafts, reviews and runs its matters. Documents, ma
 [X](https://x.com/lexifinadotcom) · [LinkedIn](https://www.linkedin.com/company/lexifina) · [YouTube](https://www.youtube.com/channel/UCcnDS5YaeegY-8rqyarAJbg)
 
 Questions: [hello@lexifina.com](mailto:hello@lexifina.com)
+
+<!-- git-law-stats:begin -->
+
+## Git for Global Law in numbers
+
+Commits are laws taking effect. Updated 28 Oct 2026, 19:09 UTC; rates appear after the next update.
+
+| | Commits | Per hour |
+|---|---:|---:|
+| **All 30 countries** | **24,018** | **–** |
+| Armenia | 14,424 | – |
+| Malta | 7,444 | – |
+| Chile | 490 | – |
+| Colombia | 375 | – |
+| Brazil | 219 | – |
+| Argentina | 152 | – |
+| Luxembourg | 122 | – |
+| Denmark | 106 | – |
+| Liechtenstein | 101 | – |
+| Paraguay | 74 | – |
+| Germany | 73 | – |
+| Estonia | 60 | – |
+| Slovakia | 57 | – |
+| United States | 47 | – |
+| Peru | 41 | – |
+| Monaco | 39 | – |
+| Slovenia | 32 | – |
+| Uruguay | 31 | – |
+| Hong Kong | 24 | – |
+| Switzerland | 23 | – |
+| United Kingdom | 16 | – |
+| Gibraltar | 13 | – |
+| Ecuador | 12 | – |
+| Guyana | 10 | – |
+| Croatia | 9 | – |
+| Venezuela | 7 | – |
+| Finland | 6 | – |
+| Bolivia | 5 | – |
+| Suriname | 4 | – |
+| Singapore | 2 | – |
+
+<!-- git-law-stats:end -->
