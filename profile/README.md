@@ -1,25 +1,38 @@
 <h1 align="center">Git for Global Law</h1>
 
-<p align="center">The world's legislation as git history: one commit per law taking effect.</p>
+<p align="center">The world's law in one git history. Every word traced to the law that wrote it, for any country and any date.</p>
 
 <p align="center">
-  <a href="https://lexifina.com/watch">Read it on lexifina.com</a> ·
-  <a href="https://github.com/lexifina/global-law">global-law</a>
+  <a href="https://github.com/lexifina/global-law">global-law</a> ·
+  <a href="https://github.com/lexifina/global-law/blob/main/MCP.md">MCP server</a> ·
+  <a href="https://lexifina.com/watch">Readers</a> ·
+  <a href="https://news.ycombinator.com/item?id=50268380">Hacker News</a>
 </p>
 
-Each repo holds one jurisdiction's law, with one file per provision and one commit per law taking effect. Every commit is dated by the day the change came into force, and its author is the law that made the change, so `git blame` shows which law wrote each line and `git log` shows a provision's history. Each repo has a `REPRODUCE.md` that lists its sources, commands and tool versions, so anyone can rebuild it hash for hash.
+Each country's law is its own repository, with one file per provision and one commit per law taking effect. Every commit is dated by the day the change came into force, and its author is the law that made the change, so `git blame` shows which law wrote each line and `git log` shows a provision's history. [global-law](https://github.com/lexifina/global-law) brings every country together in one history, in the order the changes took force, so one commit is the state of the world's law on one day.
+
+Every repository has a `REPRODUCE.md` that lists its sources, commands and tool versions, so anyone can rebuild it hash for hash.
+
+### Ask your AI about the law
+
+global-law ships an MCP server, so Claude, ChatGPT or any MCP client can read the law directly: what a provision said on a date, which law wrote its words, whether the text a judgment relied on still stands, and whether every citation in a brief is correct.
+
+```sh
+git clone --recurse-submodules https://github.com/lexifina/global-law && cd global-law
+claude mcp add global-law -- python tools/mcp_server.py
+```
+
+### The repositories
 
 | | |
 |---|---|
-| [global-law](https://github.com/lexifina/global-law) | Every corpus as a submodule, by country and level, with one history in in-force order. Read any provision on any date with `tools/law.py`, or through an MCP server. |
-| [us-code-history](https://github.com/lexifina/us-code-history) · [reader](https://lexifina.com/watch/us-code) | The United States Code. |
-| [uk-law-history](https://github.com/lexifina/uk-law-history) · [reader](https://lexifina.com/watch/uk-law) | UK legislation from legislation.gov.uk. |
-| [grundgesetz](https://github.com/lexifina/grundgesetz) · [reader](https://lexifina.com/watch/grundgesetz) | Germany's Basic Law and its amendments. |
-| [swiss-law](https://github.com/lexifina/swiss-law) | Swiss federal law from Fedlex. |
-| [estonia-law](https://github.com/lexifina/estonia-law) · [luxembourg-law](https://github.com/lexifina/luxembourg-law) · [liechtenstein-law](https://github.com/lexifina/liechtenstein-law) | Constitutions and key acts of Estonia, Luxembourg and Liechtenstein. |
-| One repo per country | A repo for each of the 193 UN member states and 16 other jurisdictions, recording where its law is published and what a build needs. |
-
-The repos are private while we finish them. The readers on lexifina.com are open to everyone.
+| [global-law](https://github.com/lexifina/global-law) | Every country's law in one history, by country and level. Read any provision on any date with `tools/law.py` or the MCP server. |
+| [united-states-law](https://github.com/lexifina/united-states-law) · [reader](https://lexifina.com/watch/us-code) | The United States Code, every change traced to the public law that made it. |
+| [united-kingdom-law](https://github.com/lexifina/united-kingdom-law) · [reader](https://lexifina.com/watch/uk-law) | UK legislation from legislation.gov.uk. |
+| [germany-law](https://github.com/lexifina/germany-law) · [reader](https://lexifina.com/watch/grundgesetz) | The Basic Law since 1949 and German federal law. |
+| [switzerland-law](https://github.com/lexifina/switzerland-law) | The whole Swiss federal statute book, from Fedlex. |
+| [czechia-law](https://github.com/lexifina/czechia-law) · [spain-law](https://github.com/lexifina/spain-law) · [armenia-law](https://github.com/lexifina/armenia-law) · [georgia-law](https://github.com/lexifina/georgia-law) · [malta-law](https://github.com/lexifina/malta-law) | Whole statute books, every consolidated version. |
+| `lexifina/<country>-law` | One repository for each of the 193 UN member states and 16 other jurisdictions. Those without law yet record where it is published and what a build needs. |
 
 ---
 
