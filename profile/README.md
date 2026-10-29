@@ -77,64 +77,67 @@ Questions: [hello@lexifina.com](mailto:hello@lexifina.com)
 
 ## Git for Global Law in numbers
 
-Commits are laws taking effect. "Per hour" counts commits added to GitHub over the last 3.0 hours. Updated 28 Oct 2026, 23:52 UTC.
+Commits are laws taking effect. "Per hour" counts commits added to GitHub over the last 3.0 hours. Updated 29 Oct 2026, 00:22 UTC.
 
 | | Commits | Per hour |
 |---|---:|---:|
-| **All 57 countries** | **119,586** | **10,637** |
+| **All 60 countries** | **119,656** | **4,449** |
 | Czechia | 33,641 | 0 |
-| Spain | 16,737 | 5,581 |
+| Spain | 16,737 | 0 |
 | Armenia | 14,423 | -1 |
 | Georgia | 11,819 | 0 |
 | Switzerland | 11,509 | 0 |
 | Azerbaijan | 10,867 | 3,623 |
 | Malta | 7,255 | -63 |
 | Germany | 3,305 | 0 |
-| Turkey | 2,362 | 787 |
-| Chile | 1,456 | 99 |
+| Turkey | 2,362 | 450 |
+| Chile | 1,456 | 23 |
 | Fiji | 1,295 | 0 |
 | Mongolia | 980 | 327 |
 | Colombia | 737 | 42 |
 | Brazil | 642 | 0 |
-| Austria | 301 | 100 |
+| Austria | 301 | 0 |
 | Italy | 243 | 0 |
-| Argentina | 203 | 2 |
-| Peru | 152 | 9 |
-| Portugal | 149 | 36 |
-| Canada | 147 | 49 |
+| Argentina | 203 | 0 |
+| Peru | 152 | 0 |
+| Portugal | 149 | 0 |
+| Canada | 147 | 0 |
 | Australia | 146 | 0 |
-| Luxembourg | 126 | 1 |
+| Luxembourg | 126 | 0 |
 | Paraguay | 120 | 0 |
 | Denmark | 109 | 0 |
 | Liechtenstein | 103 | 0 |
-| Ecuador | 78 | 6 |
+| Ecuador | 78 | 0 |
 | Uruguay | 65 | 0 |
 | Estonia | 62 | 0 |
 | Slovakia | 59 | 0 |
+| Kenya | 48 | 16 |
 | United States | 47 | 0 |
 | South Africa | 42 | 12 |
 | Monaco | 41 | 0 |
 | Slovenia | 34 | 0 |
 | Greenland | 32 | 0 |
 | Japan | 31 | 0 |
-| Ireland | 27 | 1 |
+| Ireland | 27 | 0 |
 | Hong Kong | 26 | 0 |
 | Poland | 22 | 0 |
 | Kyrgyzstan | 17 | 0 |
 | United Kingdom | 16 | 0 |
-| Thailand | 16 | 5 |
+| Thailand | 16 | 0 |
 | Uganda | 15 | 5 |
 | Gibraltar | 15 | 0 |
-| Saudi Arabia | 13 | 4 |
+| Nauru | 13 | 4 |
+| Saudi Arabia | 13 | 0 |
 | Zambia | 12 | 4 |
 | Croatia | 11 | 0 |
 | Guyana | 10 | 0 |
+| Madagascar | 10 | 2 |
 | Finland | 9 | 0 |
 | Rwanda | 9 | 0 |
 | China | 8 | 0 |
-| Madagascar | 8 | 1 |
-| Timor-Leste | 8 | 3 |
+| Timor-Leste | 8 | 0 |
 | Venezuela | 7 | 0 |
+| Bermuda | 7 | 2 |
 | Taiwan | 6 | 0 |
 | Bolivia | 5 | 0 |
 | Dominican Republic | 4 | 1 |
