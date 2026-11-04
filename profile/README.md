@@ -49,7 +49,7 @@ claude mcp add global-law -- python tools/mcp_server.py
 
 ## The Lexifina workspace
 
-Lexifina is where a law firm drafts, reviews and runs its matters. Documents, matters and clients live in one workspace, and a legal agent reads documents and proposes redlines that you accept or reject. Every change records who made it, person or agent, so a contract can be traced back to the person who drafted each part.
+Lexifina is where a law firm drafts, reviews and runs its matters. Documents, matters and clients live in one workspace, and a legal agent reads documents and proposes redlines that you accept or reject. Every change records who made it, person or agent, so every clause shows who wrote it and when.
 
 <p>
   <a href="https://lexifina.com">Website</a> ·
