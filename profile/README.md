@@ -70,7 +70,7 @@ Lexifina is where a law firm drafts, reviews and runs its matters. Documents, ma
 
 ### Company
 
-- [Website](https://lexifina.com) · [Pricing](https://lexifina.com/pricing) · [Changelog](https://lexifina.com/changelog) · [Blog](https://lexifina.com/blog) · [Security](https://lexifina.com/security) · [Careers](https://lexifina.com/careers) · [Media kit](https://lexifina.com/media-kit) · [Contact](https://lexifina.com/contact)
+- [Website](https://lexifina.com) · [Changelog](https://lexifina.com/changelog) · [Blog](https://lexifina.com/blog) · [Security](https://lexifina.com/security) · [Contact](https://lexifina.com/contact)
 - [Terms](https://lexifina.com/terms-of-service) · [Privacy](https://lexifina.com/privacy-policy)
 
 ### Follow
