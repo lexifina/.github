@@ -61,14 +61,14 @@ Lexifina is where a law firm drafts, reviews and runs its matters. Documents, ma
 
 ### Where Lexifina works
 
-| Where | What you get |
+| Where | What it does |
 |---|---|
-| [In your browser](https://app.lexifina.com) | The full workspace, with live editing alongside colleagues. |
-| [In Microsoft Word](https://lexifina.com/features) | Lexifina opens beside your document and shows edits from colleagues as they type. |
-| [On Android](https://lexifina.com/android) | Your documents and conversations in the same editor as the web. |
-| [In Claude and ChatGPT](https://lexifina.com/connectors) | Ask about your documents, matters and clients in the chat you already use. |
-| [In Chrome](https://lexifina.com/chrome) | The legal agent in Chrome’s side panel, beside the page you are reading. |
-| [Document tools](https://lexifina.com/tools) | Check Word files and PDFs for hidden data, compare drafts, build court bundles, redact and sign, free and without an account. Files stay on your device. |
+| [In your browser](https://app.lexifina.com) | The full workspace, edited live with colleagues. |
+| [In Microsoft Word](https://lexifina.com/features) | A side panel that shows colleagues' edits as they type. |
+| [On Android](https://lexifina.com/android) | Documents and conversations on your phone. |
+| [In Claude and ChatGPT](https://lexifina.com/connectors) | Query matters and clients from the chat. |
+| [In Chrome](https://lexifina.com/chrome) | The legal agent beside any web page. |
+| [Document tools](https://lexifina.com/tools) | Free metadata checks, comparison, bundles, redaction and signing. Files never leave your device. |
 
 ### For developers
 
