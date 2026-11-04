@@ -4,16 +4,14 @@
 
 <h1 align="center">Lexifina</h1>
 
-<p align="center">The world's law in git, and the legal workspace built for your practice.</p>
+## Git for Global Law
 
-<p align="center">
+<p>
   <a href="https://github.com/lexifina/global-law">Global law</a> ·
   <a href="https://github.com/lexifina/global-law/blob/main/MCP.md">MCP server</a> ·
   <a href="https://github.com/lexifina/global-law/tree/main/visualisations">Visualisations</a> ·
   <a href="https://github.com/lexifina/global-law/blob/main/FAQ.md">FAQ</a>
 </p>
-
-## Git for Global Law
 
 The world's law in one git history. Every word traced to the law that wrote it, for any country and any date.
 
