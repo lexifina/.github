@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: A missing jurisdiction, or the tools and MCP server
+    url: https://github.com/lexifina/global-law/issues/new/choose
+    about: Ask in lexifina/global-law.
+  - name: Security problem
+    url: https://github.com/lexifina/.github/blob/main/SECURITY.md
+    about: Please report security problems privately, not as an issue.
