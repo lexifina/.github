@@ -68,17 +68,13 @@ Lexifina is where a law firm drafts, reviews and runs its matters. Documents, ma
 | [On Android](https://lexifina.com/android) | Your documents and conversations in the same editor as the web. |
 | [In Claude and ChatGPT](https://lexifina.com/connectors) | Ask about your documents, matters and clients in the chat you already use. |
 | [In Chrome](https://lexifina.com/chrome) | The legal agent in Chrome’s side panel, beside the page you are reading. |
+| [Document tools](https://lexifina.com/tools) | Check Word files and PDFs for hidden data, compare drafts, build court bundles, redact and sign, free and without an account. Files stay on your device. |
 
 ### For developers
 
 - [Developer API](https://lexifina.com/api): connect your applications to documents, matters, clients, agents and workflows with scoped API keys.
 - [Connectors](https://lexifina.com/connectors): connect Claude or ChatGPT to Lexifina through MCP.
 - [Status](https://status.lexifina.com): live service status and incident history.
-
-### Free tools
-
-- [Document tools](https://lexifina.com/tools): check Word files and PDFs for hidden data, compare drafts, build court bundles, redact and sign. Files stay on your device.
-- [Contract templates](https://lexifina.com/templates): NDAs, contractor, employment and loan agreements you fill in online and download as Word documents.
 
 ### Company
 
