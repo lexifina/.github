@@ -6,16 +6,16 @@
 
 ## Git for Global Law
 
+The world's law in one git history. Every word traced to the law that wrote it, for any country and any date.
+
+Each country's law is its own repository: one file per provision, one commit per law taking effect, dated by the day it came into force and authored by the law that made it. [global-law](https://github.com/lexifina/global-law) joins them in one history, so each commit is the world's law on one day. Every repository's `REPRODUCE.md` lists the sources, commands and tool versions to rebuild it hash for hash.
+
 <p>
   <a href="https://github.com/lexifina/global-law">Global law</a> ·
   <a href="https://github.com/lexifina/global-law/blob/main/MCP.md">MCP server</a> ·
   <a href="https://github.com/lexifina/global-law/tree/main/visualisations">Visualisations</a> ·
   <a href="https://github.com/lexifina/global-law/blob/main/FAQ.md">FAQ</a>
 </p>
-
-The world's law in one git history. Every word traced to the law that wrote it, for any country and any date.
-
-Each country's law is its own repository: one file per provision, one commit per law taking effect, dated by the day it came into force and authored by the law that made it. [global-law](https://github.com/lexifina/global-law) joins them in one history, so each commit is the world's law on one day. Every repository's `REPRODUCE.md` lists the sources, commands and tool versions to rebuild it hash for hash.
 
 ### Ask your AI about the law
 
