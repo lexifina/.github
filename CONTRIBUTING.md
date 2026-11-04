@@ -13,6 +13,7 @@ repository (`lexifina/<country>-law`). The full guidelines are in
   [lexifina/global-law](https://github.com/lexifina/global-law).
 - **History only grows:** published commits are never changed or force-pushed.
 - **Credit** goes in a `Contributed-by: Your Name (@your-github-handle)` trailer, with no email address.
-- **Licence:** your contribution is dedicated to the public domain under CC0; law text stays under its publisher's
-  terms (this repository's `SOURCES.md`).
+- **Licence:** your contribution takes the terms this repository's `LICENSE` gives Lexifina's own work (CC0 in most,
+  MIT in a few; CC0 where it names neither). Law text stays under its publisher's terms, which `LICENSE` and
+  `SOURCES.md` record.
 - **Security problems:** report them privately, as [SECURITY.md](SECURITY.md) says.

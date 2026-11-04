@@ -5,5 +5,5 @@
 **Official source or issue:**
 
 - [ ] No law file is edited by hand; a text change comes from the source, or as a correction with its evidence
-- [ ] I have the right to contribute this, and it is dedicated to the public domain under CC0
+- [ ] I have the right to contribute this, under the terms this repository's `LICENSE` gives Lexifina's own work
 - [ ] A model helped with this (say how), and I have checked every line and source myself
