@@ -51,14 +51,6 @@ claude mcp add global-law -- python tools/mcp_server.py
 
 Lexifina is where a law firm drafts, reviews and runs its matters. Documents, matters and clients live in one workspace, and a legal agent reads documents and proposes redlines that you accept or reject. Every change records who made it, person or agent, so every clause shows who wrote it and when.
 
-<p>
-  <a href="https://lexifina.com">Website</a> ·
-  <a href="https://app.lexifina.com">Open the app</a> ·
-  <a href="https://lexifina.com/changelog">Changelog</a> ·
-  <a href="https://lexifina.com/blog">Blog</a> ·
-  <a href="https://status.lexifina.com">Status</a>
-</p>
-
 ### Where Lexifina works
 
 | Where | What it does |
@@ -78,7 +70,7 @@ Lexifina is where a law firm drafts, reviews and runs its matters. Documents, ma
 
 ### Company
 
-- [Pricing](https://lexifina.com/pricing) · [Security](https://lexifina.com/security) · [Careers](https://lexifina.com/careers) · [Media kit](https://lexifina.com/media-kit) · [Contact](https://lexifina.com/contact)
+- [Website](https://lexifina.com) · [Pricing](https://lexifina.com/pricing) · [Changelog](https://lexifina.com/changelog) · [Blog](https://lexifina.com/blog) · [Security](https://lexifina.com/security) · [Careers](https://lexifina.com/careers) · [Media kit](https://lexifina.com/media-kit) · [Contact](https://lexifina.com/contact)
 - [Terms](https://lexifina.com/terms-of-service) · [Privacy](https://lexifina.com/privacy-policy)
 
 ### Follow
