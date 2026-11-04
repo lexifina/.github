@@ -43,7 +43,9 @@ claude mcp add global-law -- python tools/mcp_server.py
 | Also | [france-law](https://github.com/lexifina/france-law) · [austria-law](https://github.com/lexifina/austria-law) · [poland-law](https://github.com/lexifina/poland-law) · [india-law](https://github.com/lexifina/india-law) · [turkey-law](https://github.com/lexifina/turkey-law) · [israel-law](https://github.com/lexifina/israel-law) · [netherlands-law](https://github.com/lexifina/netherlands-law) · [brazil-law](https://github.com/lexifina/brazil-law) |
 | `lexifina/<place>-law` | One repository for every country, and for many states, provinces and cities: 726 in all. Those without law yet record where it is published and what a build needs. |
 
-[Discussion on Hacker News](https://news.ycombinator.com/item?id=50268380)
+### Discussions
+
+[Hacker News](https://news.ycombinator.com/item?id=50268380) · [Reddit, r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1xiz1vy/using_claude_to_put_all_global_law_into_git/) · [X](https://x.com/RoundtableSpace/status/2116104070029292024)
 
 ## The Lexifina workspace
 
