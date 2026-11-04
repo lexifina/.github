@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://lexifina.com"><img src="https://lexifina.com/favicon-256x256.png" width="96" height="96" alt="Lexifina"></a>
-</p>
-
-<h1 align="center">Lexifina</h1>
-
 ## Git for Global Law
 
 The world's law in one git history. Every word traced to the law that wrote it, for any country and any date.
