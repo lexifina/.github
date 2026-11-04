@@ -1,13 +1,22 @@
-<h1 align="center">Git for Global Law</h1>
+<p align="center">
+  <a href="https://lexifina.com"><img src="https://lexifina.com/favicon-256x256.png" width="96" height="96" alt="Lexifina"></a>
+</p>
 
-<p align="center">The world's law in one git history. Every word traced to the law that wrote it, for any country and any date.</p>
+<h1 align="center">Lexifina</h1>
+
+<p align="center">The world's law in git, and the legal workspace built for your practice.</p>
 
 <p align="center">
   <a href="https://github.com/lexifina/global-law">global-law</a> ·
   <a href="https://github.com/lexifina/global-law/blob/main/MCP.md">MCP server</a> ·
   <a href="https://lexifina.com/watch">Readers</a> ·
-  <a href="https://news.ycombinator.com/item?id=50268380">Hacker News</a>
+  <a href="https://lexifina.com">Website</a> ·
+  <a href="https://app.lexifina.com">Open the app</a>
 </p>
+
+## Git for Global Law
+
+The world's law in one git history. Every word traced to the law that wrote it, for any country and any date.
 
 Each country's law is its own repository, with one file per provision and one commit per law taking effect. Every commit is dated by the day the change came into force, and its author is the law that made the change, so `git blame` shows which law wrote each line and `git log` shows a provision's history. [global-law](https://github.com/lexifina/global-law) brings every country together in one history, in the order the changes took force, so one commit is the state of the world's law on one day.
 
@@ -24,27 +33,26 @@ claude mcp add global-law -- python tools/mcp_server.py
 
 ### The repositories
 
-| | |
+| Repository | What it holds |
 |---|---|
 | [global-law](https://github.com/lexifina/global-law) | Every country's law in one history, by country and level. Read any provision on any date with `tools/law.py` or the MCP server. |
+| [romania-law](https://github.com/lexifina/romania-law) | Romania's primary legislation: the Constitution, laws, emergency ordinances, ordinances and government decisions, with every consolidated form. |
 | [united-states-law](https://github.com/lexifina/united-states-law) · [reader](https://lexifina.com/watch/us-code) | The United States Code, every change traced to the public law that made it. |
 | [united-kingdom-law](https://github.com/lexifina/united-kingdom-law) · [reader](https://lexifina.com/watch/uk-law) | UK legislation from legislation.gov.uk. |
 | [germany-law](https://github.com/lexifina/germany-law) · [reader](https://lexifina.com/watch/grundgesetz) | The Basic Law since 1949 and German federal law. |
 | [switzerland-law](https://github.com/lexifina/switzerland-law) | The whole Swiss federal statute book, from Fedlex. |
 | [czechia-law](https://github.com/lexifina/czechia-law) · [spain-law](https://github.com/lexifina/spain-law) · [armenia-law](https://github.com/lexifina/armenia-law) · [georgia-law](https://github.com/lexifina/georgia-law) · [malta-law](https://github.com/lexifina/malta-law) | Whole statute books, every consolidated version. |
-| `lexifina/<country>-law` | One repository for each of the 193 UN member states and 16 other jurisdictions. Those without law yet record where it is published and what a build needs. |
+| The Balkans | [albania-law](https://github.com/lexifina/albania-law) · [bosnia-and-herzegovina-law](https://github.com/lexifina/bosnia-and-herzegovina-law) · [bulgaria-law](https://github.com/lexifina/bulgaria-law) · [croatia-law](https://github.com/lexifina/croatia-law) · [greece-law](https://github.com/lexifina/greece-law) · [kosovo-law](https://github.com/lexifina/kosovo-law) · [montenegro-law](https://github.com/lexifina/montenegro-law) · [north-macedonia-law](https://github.com/lexifina/north-macedonia-law) · [serbia-law](https://github.com/lexifina/serbia-law) · [slovenia-law](https://github.com/lexifina/slovenia-law) |
+| Also | [france-law](https://github.com/lexifina/france-law) · [austria-law](https://github.com/lexifina/austria-law) · [poland-law](https://github.com/lexifina/poland-law) · [india-law](https://github.com/lexifina/india-law) · [turkey-law](https://github.com/lexifina/turkey-law) · [israel-law](https://github.com/lexifina/israel-law) · [netherlands-law](https://github.com/lexifina/netherlands-law) · [brazil-law](https://github.com/lexifina/brazil-law) |
+| `lexifina/<place>-law` | One repository for every country, and for many states, provinces and cities: 726 in all. Those without law yet record where it is published and what a build needs. |
 
----
+[Discussion on Hacker News](https://news.ycombinator.com/item?id=50268380)
 
-<p align="center">
-  <a href="https://lexifina.com"><img src="https://lexifina.com/favicon-256x256.png" width="96" height="96" alt="Lexifina"></a>
-</p>
+## The Lexifina workspace
 
-<h1 align="center">Lexifina</h1>
+Lexifina is where a law firm drafts, reviews and runs its matters. Documents, matters and clients live in one workspace, and a legal agent reads documents and proposes redlines that you accept or reject. Every change records who made it, person or agent, so a contract can be traced back to the person who drafted each part.
 
-<p align="center">The legal workspace built for your practice.</p>
-
-<p align="center">
+<p>
   <a href="https://lexifina.com">Website</a> ·
   <a href="https://app.lexifina.com">Open the app</a> ·
   <a href="https://lexifina.com/changelog">Changelog</a> ·
@@ -52,11 +60,9 @@ claude mcp add global-law -- python tools/mcp_server.py
   <a href="https://status.lexifina.com">Status</a>
 </p>
 
-Lexifina is where a law firm drafts, reviews and runs its matters. Documents, matters and clients live in one workspace, and a legal agent reads documents and proposes redlines that you accept or reject. Every change records who made it, person or agent, so a contract can be traced back to the person who drafted each part.
+### Where Lexifina works
 
-## Where Lexifina works
-
-| | |
+| Where | What you get |
 |---|---|
 | [In your browser](https://app.lexifina.com) | The full workspace, with live editing alongside colleagues. |
 | [In Microsoft Word](https://lexifina.com/features) | Lexifina opens beside your document and shows edits from colleagues as they type. |
@@ -64,23 +70,23 @@ Lexifina is where a law firm drafts, reviews and runs its matters. Documents, ma
 | [In Claude and ChatGPT](https://lexifina.com/connectors) | Ask about your documents, matters and clients in the chat you already use. |
 | [In Chrome](https://lexifina.com/chrome) | The legal agent in Chrome’s side panel, beside the page you are reading. |
 
-## For developers
+### For developers
 
 - [Developer API](https://lexifina.com/api): connect your applications to documents, matters, clients, agents and workflows with scoped API keys.
 - [Connectors](https://lexifina.com/connectors): connect Claude or ChatGPT to Lexifina through MCP.
 - [Status](https://status.lexifina.com): live service status and incident history.
 
-## Free tools
+### Free tools
 
 - [Document tools](https://lexifina.com/tools): check Word files and PDFs for hidden data, compare drafts, build court bundles, redact and sign. Files stay on your device.
 - [Contract templates](https://lexifina.com/templates): NDAs, contractor, employment and loan agreements you fill in online and download as Word documents.
 
-## Company
+### Company
 
 - [Pricing](https://lexifina.com/pricing) · [Security](https://lexifina.com/security) · [Careers](https://lexifina.com/careers) · [Media kit](https://lexifina.com/media-kit) · [Contact](https://lexifina.com/contact)
 - [Terms](https://lexifina.com/terms-of-service) · [Privacy](https://lexifina.com/privacy-policy)
 
-## Follow
+### Follow
 
 [X](https://x.com/lexifinadotcom) · [LinkedIn](https://www.linkedin.com/company/lexifina) · [YouTube](https://www.youtube.com/channel/UCcnDS5YaeegY-8rqyarAJbg)
 
