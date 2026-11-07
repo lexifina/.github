@@ -40,10 +40,10 @@ Lexifina is where a law firm drafts, reviews and runs its matters. Documents, ma
 
 | Where | What it does |
 |---|---|
-| [In your browser](https://app.lexifina.com) | The fully collaborative workspace. |
+| [In your browser](https://app.lexifina.com) | A fully customisable legal workspace. |
 | [In Chrome](https://lexifina.com/chrome) | The legal agent mounted on any web page. |
-| [In Microsoft Word](https://lexifina.com/features) | Turns Word into a collaborative matter workspace. |
-| [In Claude and ChatGPT](https://lexifina.com/connectors) | Every workspace feature from your AI platform. |
+| [In Microsoft Word](https://lexifina.com/features) | Turns Word into a collaborative workspace tool. |
+| [In Claude and ChatGPT](https://lexifina.com/connectors) | Every feature from your AI platform. |
 | [On Android](https://lexifina.com/android) | Documents and conversations on your phone. |
 
 ### For developers
