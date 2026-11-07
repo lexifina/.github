@@ -30,7 +30,7 @@ claude mcp add global-law -- python tools/mcp_server.py
 
 ### Discussions
 
-[Hacker News](https://news.ycombinator.com/item?id=50268380) · [Reddit, r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1xiz1vy/using_claude_to_put_all_global_law_into_git/) · [X](https://x.com/RoundtableSpace/status/2116104070029292024)
+[Hacker News](https://news.ycombinator.com/item?id=50268380) · [Reddit](https://www.reddit.com/r/ClaudeAI/comments/1xiz1vy/using_claude_to_put_all_global_law_into_git/) · [X](https://x.com/RoundtableSpace/status/2116104070029292024)
 
 ## The Lexifina workspace
 
