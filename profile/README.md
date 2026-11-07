@@ -25,7 +25,6 @@ claude mcp add global-law -- python tools/mcp_server.py
 | Repository | What it holds |
 |---|---|
 | [global-law](https://github.com/lexifina/global-law) | Every country in one history. Read any provision on any date with `tools/law.py` or the MCP server. |
-| Most starred | [romania-law](https://github.com/lexifina/romania-law) · [france-law](https://github.com/lexifina/france-law) · [czechia-law](https://github.com/lexifina/czechia-law) · [poland-law](https://github.com/lexifina/poland-law) · [turkey-law](https://github.com/lexifina/turkey-law) |
 | [Legislation](https://github.com/orgs/lexifina/repositories?q=law&sort=stargazers) | `lexifina/<place>-law`: 726 repositories, every country and many states, provinces and cities. Those without law yet record where it is published. |
 | [Case law](https://github.com/orgs/lexifina/repositories?q=caselaw&sort=stargazers) | `lexifina/<country>-<court>-caselaw`: 97 repositories, one commit per court decision, for Switzerland, the Netherlands, France, Germany, Austria, Finland, Poland and the United States. |
 
@@ -42,15 +41,14 @@ Lexifina is where a law firm drafts, reviews and runs its matters. Documents, ma
 | Where | What it does |
 |---|---|
 | [In your browser](https://app.lexifina.com) | The full workspace, edited live with colleagues. |
-| [In Microsoft Word](https://lexifina.com/features) | A side panel that shows colleagues' edits as they type. |
-| [On Android](https://lexifina.com/android) | Documents and conversations on your phone. |
-| [In Claude and ChatGPT](https://lexifina.com/connectors) | Query matters and clients from the chat. |
 | [In Chrome](https://lexifina.com/chrome) | The legal agent beside any web page. |
-| [Document tools](https://lexifina.com/tools) | Free metadata checks, comparison, bundles, redaction and signing. Files never leave your device. |
+| [In Microsoft Word](https://lexifina.com/features) | A side panel that shows colleagues' edits as they type. |
+| [In Claude and ChatGPT](https://lexifina.com/connectors) | Query matters and clients from the chat. |
+| [On Android](https://lexifina.com/android) | Documents and conversations on your phone. |
 
 ### For developers
 
-- [Developer API](https://lexifina.com/api): connect your applications to documents, matters, clients, agents and workflows with scoped API keys.
+- [Developer API](https://lexifina.com/api): your documents, matters and agents, from your own apps.
 - [Connectors](https://lexifina.com/connectors): connect Claude or ChatGPT to Lexifina through MCP.
 - [Status](https://status.lexifina.com): live service status and incident history.
 
