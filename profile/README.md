@@ -42,8 +42,8 @@ Lexifina is where a law firm drafts, reviews and runs its matters. Documents, ma
 |---|---|
 | [In your browser](https://app.lexifina.com) | The full workspace, edited live with colleagues. |
 | [In Chrome](https://lexifina.com/chrome) | The legal agent beside any web page. |
-| [In Microsoft Word](https://lexifina.com/features) | A side panel that shows colleagues' edits as they type. |
-| [In Claude and ChatGPT](https://lexifina.com/connectors) | Query matters and clients from the chat. |
+| [In Microsoft Word](https://lexifina.com/features) | Turns Word into a live collaborative portal for matters. |
+| [In Claude and ChatGPT](https://lexifina.com/connectors) | Manage clients and matters, save and share firm info. |
 | [On Android](https://lexifina.com/android) | Documents and conversations on your phone. |
 
 ### For developers
