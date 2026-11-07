@@ -6,7 +6,7 @@ Each country's law is its own repository: one file per provision, one commit per
 
 <p>
   <a href="https://github.com/lexifina/global-law">Global law</a> ·
-  <a href="https://github.com/lexifina/global-law/blob/main/MCP.md">MCP server</a> ·
+  <a href="https://github.com/lexifina/global-law/blob/main/MCP.md">MCP</a> ·
   <a href="https://github.com/lexifina/global-law/tree/main/visualisations">Visualisations</a> ·
   <a href="https://github.com/lexifina/global-law/blob/main/FAQ.md">FAQ</a>
 </p>
@@ -34,7 +34,7 @@ claude mcp add global-law -- python tools/mcp_server.py
 
 ## The Lexifina workspace
 
-Lexifina is where a law firm drafts, reviews and runs its matters. Documents, matters and clients live in one workspace, and a legal agent reads documents and proposes redlines that you accept or reject. Every change records who made it, person or agent, so every clause shows who wrote it and when.
+Lexifina is where a law firm drafts, reviews and runs its matters. Documents, matters and clients live in one workspace, with provenance, so that every clause shows who wrote it and when.
 
 ### Where Lexifina works
 
