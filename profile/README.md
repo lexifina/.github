@@ -7,7 +7,7 @@ Each country's law is its own repository: one file per provision, one commit per
 <p>
   <a href="https://github.com/lexifina/global-law">Global law</a> ·
   <a href="https://github.com/lexifina/global-law/blob/main/MCP.md">MCP</a> ·
-  <a href="https://github.com/lexifina/global-law/tree/main/visualisations">Visualisations</a> ·
+  <a href="https://github.com/lexifina/global-law/tree/main/visualisations">Visualizations</a> ·
   <a href="https://github.com/lexifina/global-law/blob/main/FAQ.md">FAQ</a>
 </p>
 
@@ -40,7 +40,7 @@ Lexifina is where a law firm drafts, reviews and runs its matters. Documents, ma
 
 | Where | What it does |
 |---|---|
-| [In your browser](https://app.lexifina.com) | A fully customisable legal workspace. |
+| [In your browser](https://app.lexifina.com) | A fully customizable legal workspace. |
 | [In Chrome](https://lexifina.com/chrome) | The legal agent mounted on any web page. |
 | [In Microsoft Word](https://lexifina.com/features) | Turns Word into a collaborative workspace tool. |
 | [In Claude and ChatGPT](https://lexifina.com/connectors) | Every feature from your AI platform. |
