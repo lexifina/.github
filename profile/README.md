@@ -19,7 +19,7 @@ Ask about the law in [Claude](https://global-law.lexifina.com/v1/try_claude) or 
 
 | Repository | What it holds |
 |---|---|
-| [global-law](https://github.com/lexifina/global-law) | Every country in one history. Read any provision on any date with `tools/law.py` or the MCP server. |
+| [Global law](https://github.com/lexifina/global-law) | `lexifina/global-law`: every country in one history. Read any provision on any date with `tools/law.py` or the MCP server. |
 | [Legislation](https://github.com/orgs/lexifina/repositories?q=law&sort=stargazers) | `lexifina/<place>-law`: 726 repositories, every country and many states, provinces and cities. Those without law yet record where it is published. |
 | [Case law](https://github.com/orgs/lexifina/repositories?q=caselaw&sort=stargazers) | `lexifina/<country>-<court>-caselaw`: 97 repositories, one commit per court decision, for the United States, Germany, France, Switzerland, the Netherlands, Poland, Austria and Finland. |
 
