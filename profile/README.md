@@ -13,12 +13,7 @@ Each country's law is its own repository: one file per provision, one commit per
 
 ### Ask your AI about the law
 
-global-law ships an MCP server, so Claude, ChatGPT or any MCP client can read the law directly: what a provision said on a date, which law wrote its words, whether the text a judgment relied on still stands, and whether every citation in a brief is correct.
-
-```sh
-git clone --recurse-submodules https://github.com/lexifina/global-law && cd global-law
-claude mcp add global-law -- python tools/mcp_server.py
-```
+Ask about the law in [Claude](https://global-law.lexifina.com/v1/try_claude) or [ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt), search it on [our website](https://lexifina.com/law), [host it yourself](https://github.com/lexifina/global-law#host-it-on-your-own-machine), or connect any client to the [MCP server](https://github.com/lexifina/global-law/blob/main/MCP.md) (`https://global-law.lexifina.com/mcp`).
 
 ### The repositories
 
