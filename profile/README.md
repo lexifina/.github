@@ -13,7 +13,7 @@ Each country's law is its own repository: one file per provision, one commit per
 
 ### Ask your AI about the law
 
-Ask about the law in [Claude](https://global-law.lexifina.com/v1/try_claude) or [ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt), search it on [our website](https://lexifina.com/law), [host it yourself](https://github.com/lexifina/global-law#host-it-on-your-own-machine), or connect any client to the [MCP server](https://github.com/lexifina/global-law/blob/main/MCP.md) (`https://global-law.lexifina.com/mcp`).
+Ask about the law in [Claude](https://global-law.lexifina.com/v1/try_claude) or [ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt), search it on [our website](https://lexifina.com/law), [host it yourself](https://github.com/lexifina/global-law#use-it), or connect any client to the [MCP server](https://github.com/lexifina/global-law/blob/main/MCP.md) (`https://global-law.lexifina.com/mcp`).
 
 ### The repositories
 
